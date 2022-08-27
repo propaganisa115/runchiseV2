@@ -46,7 +46,7 @@ method GET
 http://127.0.0.1:8000/restaurant/search
 ```
 
-#How to run Unit test
+# How to run Unit test
 1. open the project directory in command prompt
 2. type in the command prompt
 ```
